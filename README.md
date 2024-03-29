@@ -37,6 +37,11 @@ I started writing how I did this assignment in the file
 After git add and commit new changes, I delete the README2.md file and move on to the next step.
 
 ## Push to a github repo
+Pusing require setting up SSH and add remote access. 
+I used -- ssh-keygen -t rsa -b 4096 -C "6022020007@camtech.edu.kh" -- to create the key and then copy the key into the setting in gitup for authentication. 
+
+I used git remote origin SSH of the repo for setting the remote and the git push -u origin master to push the master into the repo
 
 ## Submit 
+After everthing have been finalized and adjusted, I submit the assignment. 
 
